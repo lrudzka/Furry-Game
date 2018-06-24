@@ -1,0 +1,25 @@
+{
+  "name": "furry_game",
+  "version": "1.0.0",
+  "description": "<img alt=\"Logo\" src=\"http://coderslab.pl/svg/logo-coderslab.svg\" width=\"400\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lrudzka/KAT_FER_S_06_REACT_Furry_Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lrudzka/KAT_FER_S_06_REACT_Furry_Game/issues"
+  },
+  "homepage": "https://github.com/lrudzka/KAT_FER_S_06_REACT_Furry_Game#readme",
+  "devDependencies": {
+    "webpack": "^4.10.1",
+    "webpack-cli": "^2.1.4"
+  },
+  "dependencies": {},
+  "keywords": []
+}
